@@ -125,6 +125,7 @@ variable "resourcegroups" {
 variable "resourceGroupsname" {
   description = "Names"
   type = "string"
+  default = "Harshil-ggs"
 }
 variable "pro" {
   description = "Names"
