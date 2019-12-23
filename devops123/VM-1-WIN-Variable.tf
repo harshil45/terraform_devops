@@ -135,7 +135,6 @@ variable "pro" {
 variable "virtualnetworkname" {
   description = "Names"
   type = "string"
-  default = "Virtual-Network-1"
 }
 variable "subnet" {
   description = "Names"
@@ -146,7 +145,6 @@ variable "subnet" {
 variable "subnetname" {
   description = "Names"
   type = "string"
-  default="Subnet-1"
 }
 
 variable "NIC" {
