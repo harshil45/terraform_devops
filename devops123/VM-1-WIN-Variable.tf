@@ -141,10 +141,7 @@ variable "subnet" {
   type = "string"
   default = "/subnets/"
 }
-variable "subnetname" {
-  description = "Names"
-  type = "string"
-}
+
 variable "subnetname" {
   description = "Names"
   type = "string"
